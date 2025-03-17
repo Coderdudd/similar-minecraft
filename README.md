@@ -12,5 +12,10 @@ this game has many features! such as:
 - make sure you have ursina installed by doing this in cmd:
 - pip install ursina
 - make a folder for the code and textures on your desktop
+- HOW TO PLAY:
+- WASD to move
+- SPACEBAR to jump
+- left click to place/interact
+- right click to break
 
 Any suggestions? tell me!
