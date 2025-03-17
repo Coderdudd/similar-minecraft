@@ -20,7 +20,9 @@ this game has many features! such as:
 - tap keys 1 - 5 for blocks
 - SOME BUGS
 - you sink into the block but can be fixed by jumping
-- you can no-clip through blocks so i removed trees for lag fix and the issue but can also apply on placen blocks
+- you can no-clip through blocks so i removed trees for lag fix and the issue but can also apply on placed blocks
+
+
 THATS ALL!
 
 Any issues? tell me!
