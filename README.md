@@ -18,4 +18,5 @@ this game has many features! such as:
 - left click to place/interact
 - right click to break
 
-Any suggestions? tell me!
+
+Any issues? tell me!
