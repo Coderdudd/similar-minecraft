@@ -17,6 +17,12 @@ this game has many features! such as:
 - SPACEBAR to jump
 - left click to place/interact
 - right click to break
-
+- tap keys 1 - 5 for blocks
+-TIPS!
+-if you fall into the void, you can fly back!
+- SOME BUGS
+- you sink into the block but can be fixed by jumping
+- you can no-clip through blocks so i removed trees for lag fix and the issue but can also apply on placen blocks
+THATS ALL!
 
 Any issues? tell me!
